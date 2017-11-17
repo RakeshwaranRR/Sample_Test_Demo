@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+<parameter name="team" value="india">
+<parameter name="Oppositeteam" value="Australia">
+  <test name="Test">
+    <classes>
+      <class name="Parameterization.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
